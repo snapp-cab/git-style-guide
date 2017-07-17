@@ -11,7 +11,7 @@ among the community.
 2. [Commits](#commits)
   1. [Messages](#messages)
 3. [Merging](#merging)
-4. [Misc.](#misc)
+4. [Miscellaneous](#misc)
 
 ## Branches
 
